@@ -4,7 +4,7 @@
 
 <img height="300" src=".github/allsight.png" alt="allsight" class="center"/>
 
-Manufacturing design files for the [AllSight tactile sensor](https://digit.ml).
+Manufacturing design files for the [AllSight tactile sensor](https://github.com/osheraz/allsight).
 
 
 ## Content
