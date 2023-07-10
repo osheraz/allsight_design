@@ -2,7 +2,7 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE)
 
-<img height="300" src=".github/allsight.png" alt="allsight" class="center"/>
+<img height="300" src="Intro.png" alt="allsight" class="center"/>
 
 Manufacturing design files for the [AllSight tactile sensor](https://github.com/osheraz/allsight).
 
