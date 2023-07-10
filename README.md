@@ -9,7 +9,7 @@ Manufacturing design files for the [AllSight tactile sensor](https://github.com/
 
 ## Content
 
-This repository contains the documentation and manufacturing files for the plastics enclosure, elastomer, electronics and the firmware binary.
+This repository aims to provide manufacturing, assembly, and quick-start instruction for the AllSight tactile sensor.
 
 
 ## Quick Start
